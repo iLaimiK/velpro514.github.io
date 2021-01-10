@@ -608,13 +608,16 @@ line7 repeats the first two words of line5&lt;/p&gt;
             <link>http://anvelpro.xyz/foreign-language/japanese/japan-sundry/</link>
             <category term="外语" scheme="http://anvelpro.xyz/categories/foreign-language/" />
             <category term="日语" scheme="http://anvelpro.xyz/categories/foreign-language/japanese/" />
-            <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
             <category term="日语" scheme="http://anvelpro.xyz/tags/%E6%97%A5%E8%AF%AD/" />
+            <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
             <pubDate>Sat, 09 Jan 2021 08:55:45 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;随学习进度不定时更新。本笔记部分摘录自教科书，部分为网上公开资料。&lt;/p&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;关于语法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于语法&#34;&gt;#&lt;/a&gt; 关于语法&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我认为语法是个很玄学的东西，在你没了解某个语言的体系、语言的思维习惯之前，可能连该语言中那些简单的语法都觉得很难。如果用死记硬背的方法学习语法，最后只能是事倍功半，收效甚微。这里列出只为整理笔记，顺便加深记忆。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -796,12 +799,38 @@ line7 repeats the first two words of line5&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;です&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;でしだ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;でした&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;では　ありません&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;では　ありませんでした&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Example：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;ます&lt;br /&gt;
+私は&lt;ruby&gt;電車&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;でんしゃ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; で東京から横浜まで行きます。（我从东京坐电车去横滨。）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;森さんは&lt;ruby&gt;昨日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;きのう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; 9 時から 6 時まで&lt;ruby&gt;働&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;はたら&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; き&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;ました。（森先生昨天从 9 点工作到 6 点。）&lt;/p&gt;
+&lt;p&gt;私は&lt;ruby&gt;今日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;きょう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; タバコを&lt;ruby&gt;吸&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;す&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; い&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;ません。（我今天不吸烟。）&lt;/p&gt;
+&lt;p&gt;森さんは&lt;ruby&gt;今朝何&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;けさなに&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; も&lt;ruby&gt;食&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;た&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; べ&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;ませんでした。（森先生今天早上什么都没吃）&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;い&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;なにを&lt;ruby&gt;読&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;よ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; んでいるんだい。（你看什么哪？）（这里作语气词）&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;去年&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;きょねん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; の&lt;ruby&gt;今頃&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;いまごろ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は&lt;ruby&gt;雨&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;あめ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; が&lt;ruby&gt;多&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;おお&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; かった。（去年这个时候雨很多。）&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;初夏&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;しょか&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; はまだ&lt;rt&gt;&lt;/rt&gt;暑&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;あつ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; くないです。&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;（初夏还不是很热。）&lt;br /&gt;
+&lt;ruby&gt;この&lt;rt&gt;&lt;/rt&gt;種&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たね&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; の&lt;rt&gt;&lt;/rt&gt;人間&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;にんげん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; も&lt;rt&gt;&lt;/rt&gt;少&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;すく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; なくありません。&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;（这类人也不少。）&lt;/p&gt;
+&lt;p&gt;私は&lt;ruby&gt;中古車&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ちゅうこしゃ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; を&lt;ruby&gt;買&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; いましたがあなたが&lt;ruby&gt;思&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;おも&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; っていたほど&lt;ruby&gt;高&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たか&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; くなかったです。（他预料到了这辆车的价格，但是并没有那么高。）&lt;br /&gt;
+&lt;ruby&gt;彼&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;かれ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; はこの&lt;ruby&gt;車&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;くるま&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; の&lt;ruby&gt;値段&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ねだん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; を&lt;ruby&gt;予想&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;よそう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; しましたがそれほど&lt;ruby&gt;高&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たか&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; くはありませんでした。（我买了一辆二手车，但没有你想象的那么贵。）&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;です&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;ruby&gt;彼女&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;かのじょ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; が&lt;rt&gt;&lt;/rt&gt;次期議長&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;じきぎちょう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; に&lt;rt&gt;&lt;/rt&gt;推薦&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;すいせん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; された&lt;rt&gt;&lt;/rt&gt;人&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ひと&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; です。&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;（她是被推荐为下一任主席的人。）&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;昨日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;きのう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; はいい&lt;rt&gt;&lt;/rt&gt;天気&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;てんき&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; でした。&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;(昨天是好天气。)&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;この&lt;rt&gt;&lt;/rt&gt;病院&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;びょういん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; の&lt;rt&gt;&lt;/rt&gt;受付&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;うけつけ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; は&lt;rt&gt;&lt;/rt&gt;午前中&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ごぜんちゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; ですが、&lt;rt&gt;&lt;/rt&gt;急病&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;、きゅうびょう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; の&lt;rt&gt;&lt;/rt&gt;場合&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ばあい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; はこの&lt;rt&gt;&lt;/rt&gt;限&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;かぎ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; りではありません。&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;（本医院挂号是上午，但急诊不在此限。）&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;先週&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;せんしゅう，&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;，この&lt;rt&gt;&lt;/rt&gt;駅&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;えき&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; は&lt;rt&gt;&lt;/rt&gt;静&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;しず&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; かではありませんでした。&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;（上周这个车站并不安静。）&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -838,8 +867,8 @@ line7 repeats the first two words of line5&lt;/p&gt;
             <link>http://anvelpro.xyz/computer-knowledge/windows/Windows-Basics/</link>
             <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
             <category term="Windows" scheme="http://anvelpro.xyz/categories/computer-knowledge/windows/" />
-            <category term="Windows基础" scheme="http://anvelpro.xyz/tags/Windows%E5%9F%BA%E7%A1%80/" />
             <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+            <category term="Windows基础" scheme="http://anvelpro.xyz/tags/Windows%E5%9F%BA%E7%A1%80/" />
             <pubDate>Wed, 23 Dec 2020 12:17:38 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;系统目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#系统目录&#34;&gt;#&lt;/a&gt; 系统目录&lt;/h1&gt;
 &lt;blockquote&gt;
