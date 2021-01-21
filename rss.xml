@@ -18,8 +18,8 @@
             <link>http://anvelpro.xyz/computer-knowledge/windows/gfl2ddecrypt/</link>
             <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
             <category term="Windows" scheme="http://anvelpro.xyz/categories/computer-knowledge/windows/" />
-            <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
             <category term="Android" scheme="http://anvelpro.xyz/tags/Android/" />
+            <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
             <pubDate>Thu, 21 Jan 2021 21:56:45 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note warning&#34;&gt;
 &lt;p&gt;拆解的游戏仅涉及以 Unity3D 制作的游戏。&lt;br /&gt;
@@ -94,7 +94,10 @@
 &lt;p&gt;顺便一提，原网址中说的解密函数塞在 &lt;code&gt;libLive2DEncryption.so&lt;/code&gt;  里，现在已经连文件都荡然无存了，应该是制作组干的 “好事”。&lt;br /&gt;
 当然，网址里所说的解密方法也十分笼统，其小程序更是直接闪退而没有产生任何效果。我自己是用 VS 以 &lt;code&gt;C#&lt;/code&gt; 语言照猫画虎写了个小程序才得以解决。&lt;/p&gt;
 &lt;h2 id=&#34;成果欣赏时间&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成果欣赏时间&#34;&gt;#&lt;/a&gt; 成果欣赏时间&lt;/h2&gt;
+&lt;p&gt;眼睛变色可能是录制的问题，其他都没什么大碍。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://www.z4a.net/images/2021/01/21/HK416child.gif&#34; alt=&#34;HK416child&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;附赠另一款手游的立绘辅助处理工具：&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2F6dXJsYW5lLWRvdWppbi9BenVyTGFuZVBhaW50aW5nRXh0cmFjdC12MS4w&#34;&gt;AzurLanePaintingExtract&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -952,8 +955,8 @@ line7 repeats the first two words of line5&lt;/p&gt;
             <link>http://anvelpro.xyz/computer-knowledge/windows/Windows-Basics/</link>
             <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
             <category term="Windows" scheme="http://anvelpro.xyz/categories/computer-knowledge/windows/" />
-            <category term="Windows基础" scheme="http://anvelpro.xyz/tags/Windows%E5%9F%BA%E7%A1%80/" />
             <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+            <category term="Windows基础" scheme="http://anvelpro.xyz/tags/Windows%E5%9F%BA%E7%A1%80/" />
             <pubDate>Wed, 23 Dec 2020 12:17:38 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;系统目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#系统目录&#34;&gt;#&lt;/a&gt; 系统目录&lt;/h1&gt;
 &lt;blockquote&gt;
