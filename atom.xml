@@ -93,8 +93,8 @@
 </content>
         <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
         <category term="Windows" scheme="http://anvelpro.xyz/categories/computer-knowledge/windows/" />
-        <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
         <category term="Android" scheme="http://anvelpro.xyz/tags/Android/" />
+        <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
         <updated>2021-01-21T13:56:45.000Z</updated>
     </entry>
     <entry>
@@ -1167,8 +1167,8 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServices &lt;em&g
 </content>
         <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
         <category term="Windows" scheme="http://anvelpro.xyz/categories/computer-knowledge/windows/" />
-        <category term="Windows基础" scheme="http://anvelpro.xyz/tags/Windows%E5%9F%BA%E7%A1%80/" />
         <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+        <category term="Windows基础" scheme="http://anvelpro.xyz/tags/Windows%E5%9F%BA%E7%A1%80/" />
         <updated>2020-12-23T04:17:38.000Z</updated>
     </entry>
     <entry>
