@@ -93,8 +93,8 @@
 </content>
         <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
         <category term="Windows" scheme="http://anvelpro.xyz/categories/computer-knowledge/windows/" />
-        <category term="Android" scheme="http://anvelpro.xyz/tags/Android/" />
         <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+        <category term="Android" scheme="http://anvelpro.xyz/tags/Android/" />
         <updated>2021-01-21T13:56:45.000Z</updated>
     </entry>
     <entry>
@@ -922,7 +922,32 @@ line7 repeats the first two words of line5&lt;/p&gt;
         <id>http://anvelpro.xyz/dice-agreements/</id>
         <title>骰娘使用协议</title>
         <link rel="alternate" href="http://anvelpro.xyz/dice-agreements/"/>
-        <content type="html">&lt;h1 id=&#34;骰娘使用协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#骰娘使用协议&#34;&gt;#&lt;/a&gt; 骰娘使用协议&lt;/h1&gt;
+        <content type="html">&lt;h1 id=&#34;dice-bot&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dice-bot&#34;&gt;#&lt;/a&gt; Dice Bot&lt;/h1&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;KoiShi&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cDovL3dwYS5xcS5jb20vbXNncmQ/dj0zJnVpbj0xOTkxNjQ4NTk5JnNpdGU9cXEmbWVudT15ZXM=&#34; data-background-image=&#34;https://www.z4a.net/images/2021/01/29/p815475_komeiji_koishi-machily-tagme-touhou.jpg&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cDovL3dwYS5xcS5jb20vbXNncmQ/dj0zJnVpbj0xOTkxNjQ4NTk5JnNpdGU9cXEmbWVudT15ZXM=&#34;&gt;Bewusstlosigkeit&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;骰娘-Komeiji KoiShi&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;QQ：&lt;span class=&#34;exturl&#34; data-url=&#34;dGVuY2VudDovL0FkZENvbnRhY3QvP2Zyb21JZD00NSZhbXA7ZnJvbVN1YklkPTEmYW1wO3N1YmNtZD1hbGwmYW1wO3Vpbj0xOTkxNjQ4NTk5JmFtcDt3ZWJzaXRlPXd3dy5xdHhtbC5jbg==&#34;&gt;1991648599&lt;/span&gt;&lt;br /&gt;
+MasterQQ: Petrichor(1013069090)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;mark&gt;骰子核心&lt;/mark&gt;：OlivaDice (DIXE) by Dice-Developer-Team 仑质 Ver 2.5.2CHAOS4.Oliva.1.2.12 (575)&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;在线状态&lt;/mark&gt;：不稳定&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;骰子类型&lt;/mark&gt;：半公开&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;是否需要申请&lt;/mark&gt;：是&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;加群验证&lt;/mark&gt;：否&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;讨论组&lt;/mark&gt;：启用&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;全局开关&lt;/mark&gt;：启用&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;全局.jrrp 开关&lt;/mark&gt;：启用&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;邀请处理&lt;/mark&gt;：黑名单制，非黑即入&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;移出反制&lt;/mark&gt;：拉黑群和操作者&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;禁言反制&lt;/mark&gt;：自动拉黑群和群主，Master 视情况手动追加&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;刷屏反制&lt;/mark&gt;：警告&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;邀请人责任&lt;/mark&gt;：有限连带&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;窥屏可能&lt;/mark&gt;：有&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;骰主博客&lt;/mark&gt;：&lt;a href=&#34;http://anvelpro.xyz&#34;&gt;http://anvelpro.xyz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;骰娘使用协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#骰娘使用协议&#34;&gt;#&lt;/a&gt; 骰娘使用协议&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;抄自&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2JlbnplbmNsb3VkaGsueHl6L2luZGV4LnBocC9waWQ9NDEyLw==&#34;&gt;小青果酱改进版服务协议 1.1 版&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -935,12 +960,33 @@ line7 repeats the first two words of line5&lt;/p&gt;
 &lt;li&gt;对于设置敏感昵称等无法预见但有可能招致&lt;strong&gt;言论审查&lt;/strong&gt;的行为，骰娘可能会出于自我保护而拒绝提供服务&lt;/li&gt;
 &lt;li&gt;严格禁止将骰娘拉入与 &lt;em&gt;跑团无关&lt;/em&gt; 的群聊，与跑团有关的群聊在人数超过 50 以上时 Master 有权利对群内情况进行确认，并视情况收回该群的使用许可，除 Master 所允许的例外，此类例外通常为熟人与亲友，常规用户无需考虑自己在此类列的可能性。&lt;/li&gt;
 &lt;li&gt;所有封禁请被封禁者本人使用被封禁的号码与 Master 联系，否则不予处理，第 6 条所提到的例外情况除外。&lt;/li&gt;
-&lt;li&gt;由于技术以及资金原因，我们无法保证机器人 100% 的时间稳定运行，可能不定时停机维护或遭遇冻结，但是相应情况会及时通过各种渠道进行通知，敬请谅解。临时停机的骰娘不会有任何响应，故而不会影响群内活动，此状态下仍然禁止不友善行为。&lt;em&gt;（此为默认服务协议）&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;对于违反协议的行为，骰娘将视情况终止对用户和所在群提供服务，并将不良记录共享给其他服务提供方。黑名单相关事宜可以与服务提供方协商，但最终裁定权在服务提供方。&lt;em&gt;（此为默认服务协议）&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;本协议内容随时有可能改动。请注意帮助信息、签名、空间、官方群等处的骰娘动态。&lt;em&gt;（此为默认服务协议）&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;骰娘提供掷骰服务是完全免费的。&lt;/li&gt;
-&lt;li&gt;本服务最终解释权归服务提供方所有。&lt;em&gt;（此为默认服务协议）&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;由于技术以及资金原因，我们无法保证机器人 100% 的时间稳定运行，可能不定时停机维护或遭遇冻结，但是相应情况会及时通过各种渠道进行通知，敬请谅解。临时停机的骰娘不会有任何响应，故而不会影响群内活动，此状态下仍然禁止不友善行为。&lt;/li&gt;
+&lt;li&gt;对于违反协议的行为，骰娘将视情况终止对用户和所在群提供服务，并将不良记录共享给其他服务提供方。黑名单相关事宜可以与服务提供方协商，但最终裁定权在服务提供方。&lt;/li&gt;
+&lt;li&gt;本协议内容随时有可能改动。请注意帮助信息、签名、空间、官方群等处的骰娘动态。&lt;/li&gt;
+&lt;li&gt;骰娘提供掷骰服务是完全免费的，欢迎投食。&lt;/li&gt;
+&lt;li&gt;本服务最终解释权归服务提供方所有。&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 id=&#34;部分必要指令预防长消息屏蔽&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#部分必要指令预防长消息屏蔽&#34;&gt;#&lt;/a&gt; 部分必要指令（预防长消息屏蔽）&lt;/h1&gt;
+&lt;p&gt;.help 协议 确认服务协议&lt;br /&gt;
+.help 指令 查看指令列表&lt;br /&gt;
+.help 群管 查看群管指令&lt;br /&gt;
+.help 设定 确认骰娘设定&lt;br /&gt;
+.help 链接 查看源码文档&lt;/p&gt;
+&lt;p&gt;群管指令.group (群管理员限定)&lt;br /&gt;
+.group state // 查看在群内对骰娘的设置&lt;br /&gt;
+.group pause/restart// 群全体禁言 / 全体解除禁言&lt;br /&gt;
+.group card  &lt;code&gt;@/用户QQ&lt;/code&gt;   &lt;code&gt;名片&lt;/code&gt;  // 设置群员名片&lt;br /&gt;
+.group title  &lt;code&gt;@/用户QQ&lt;/code&gt;   &lt;code&gt;头衔&lt;/code&gt;  // 设置群员头衔&lt;br /&gt;
+.group diver // 查看潜水成员&lt;br /&gt;
+.group +/- &lt;code&gt;群管词条&lt;/code&gt;  // 为群加减设置，需要对应权限&lt;br /&gt;
+例: .group + 禁用回复 // 关闭本群自定义回复&lt;br /&gt;
+群管词条：停用指令 / 禁用回复 / 禁用 jrrp / 禁用 draw / 禁用 me / 禁用 help / 禁用 ob / 拦截消息 / 许可使用 / 免清 / 免黑&lt;/p&gt;
+&lt;h1 id=&#34;dice论坛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dice论坛&#34;&gt;#&lt;/a&gt; Dice！论坛&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3J1bS5rb2tvbmEudGVjaC8=&#34;&gt;官方论坛&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rb2tvbmEudGVjaA==&#34;&gt;论坛导航贴&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;青果dice&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#青果dice&#34;&gt;#&lt;/a&gt; 青果 DICE&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9vbGl2YS5kaWNlci53aWtpLw==&#34;&gt;青果 DICE 文档&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL29saXZhLmRpY2UuY2VudGVyLw==&#34;&gt;青果导航页&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="骰娘" scheme="http://anvelpro.xyz/tags/%E9%AA%B0%E5%A8%98/" />
         <category term="TRPG" scheme="http://anvelpro.xyz/tags/TRPG/" />
@@ -1121,8 +1167,8 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServices &lt;em&g
 </content>
         <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
         <category term="Windows" scheme="http://anvelpro.xyz/categories/computer-knowledge/windows/" />
-        <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
         <category term="Windows基础" scheme="http://anvelpro.xyz/tags/Windows%E5%9F%BA%E7%A1%80/" />
+        <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
         <updated>2020-12-23T04:17:38.000Z</updated>
     </entry>
     <entry>
