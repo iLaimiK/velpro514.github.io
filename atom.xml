@@ -8,13 +8,18 @@
     <author>
       <name>Velpro514</name>
     </author>
-    <updated>2021-02-27T08:45:23.000Z</updated>
+    <updated>2021-03-03T08:45:23.000Z</updated>
     <entry>
         <id>http://anvelpro.xyz/computer-knowledge/linux/linux-basis/</id>
-        <title>linux-basis</title>
+        <title>Linux基础</title>
         <link rel="alternate" href="http://anvelpro.xyz/computer-knowledge/linux/linux-basis/"/>
-        <content type="html"></content>
-        <updated>2021-02-27T08:45:23.000Z</updated>
+        <content type="html">&lt;p&gt;这里什么都没有哦～&lt;/p&gt;
+</content>
+        <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
+        <category term="Linux" scheme="http://anvelpro.xyz/categories/computer-knowledge/linux/" />
+        <category term="Linux" scheme="http://anvelpro.xyz/tags/Linux/" />
+        <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+        <updated>2021-03-03T08:45:23.000Z</updated>
     </entry>
     <entry>
         <id>http://anvelpro.xyz/computer-knowledge/windows/gfl2ddecrypt/</id>
@@ -1019,7 +1024,7 @@ line7 repeats the first two words of line5&lt;/p&gt;
 MasterQQ: Petrichor(1013069090)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;mark&gt;骰子核心&lt;/mark&gt;：OlivaDice (DIXE) by Dice-Developer-Team 仑质 Ver 2.5.2CHAOS4.Oliva.1.2.12 (575)&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;在线状态&lt;/mark&gt;：不稳定&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;在线状态&lt;/mark&gt;：Offine&lt;/li&gt;
 &lt;li&gt;&lt;mark&gt;骰子类型&lt;/mark&gt;：半公开&lt;/li&gt;
 &lt;li&gt;&lt;mark&gt;是否需要申请&lt;/mark&gt;：是&lt;/li&gt;
 &lt;li&gt;&lt;mark&gt;加群验证&lt;/mark&gt;：否&lt;/li&gt;
@@ -1059,15 +1064,6 @@ MasterQQ: Petrichor(1013069090)&lt;/p&gt;
 .help 群管 查看群管指令&lt;br /&gt;
 .help 设定 确认骰娘设定&lt;br /&gt;
 .help 链接 查看源码文档&lt;/p&gt;
-&lt;p&gt;群管指令.group (群管理员限定)&lt;br /&gt;
-.group state // 查看在群内对骰娘的设置&lt;br /&gt;
-.group pause/restart// 群全体禁言 / 全体解除禁言&lt;br /&gt;
-.group card  &lt;code&gt;@/用户QQ&lt;/code&gt;   &lt;code&gt;名片&lt;/code&gt;  // 设置群员名片&lt;br /&gt;
-.group title  &lt;code&gt;@/用户QQ&lt;/code&gt;   &lt;code&gt;头衔&lt;/code&gt;  // 设置群员头衔&lt;br /&gt;
-.group diver // 查看潜水成员&lt;br /&gt;
-.group +/- &lt;code&gt;群管词条&lt;/code&gt;  // 为群加减设置，需要对应权限&lt;br /&gt;
-例: .group + 禁用回复 // 关闭本群自定义回复&lt;br /&gt;
-群管词条：停用指令 / 禁用回复 / 禁用 jrrp / 禁用 draw / 禁用 me / 禁用 help / 禁用 ob / 拦截消息 / 许可使用 / 免清 / 免黑&lt;/p&gt;
 &lt;h1 id=&#34;dice论坛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dice论坛&#34;&gt;#&lt;/a&gt; Dice！论坛&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9mb3J1bS5rb2tvbmEudGVjaC8=&#34;&gt;官方论坛&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9rb2tvbmEudGVjaA==&#34;&gt;论坛导航贴&lt;/span&gt;&lt;/p&gt;
@@ -1254,8 +1250,8 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServices &lt;em&g
 </content>
         <category term="计算机知识" scheme="http://anvelpro.xyz/categories/computer-knowledge/" />
         <category term="Windows" scheme="http://anvelpro.xyz/categories/computer-knowledge/windows/" />
-        <category term="Windows基础" scheme="http://anvelpro.xyz/tags/Windows%E5%9F%BA%E7%A1%80/" />
         <category term="学习笔记" scheme="http://anvelpro.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" />
+        <category term="Windows" scheme="http://anvelpro.xyz/tags/Windows/" />
         <updated>2020-12-23T04:17:38.000Z</updated>
     </entry>
     <entry>
